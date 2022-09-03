@@ -1,0 +1,14 @@
+{
+  "name": "grappleman",
+  "version": "1.0.0",
+  "author": "harperkdavis",
+  "description": "Grappleman's long and arduous ascent.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
